@@ -1,7 +1,5 @@
 # Python for data processing 
 
-Warning: mybinder.org stopped working
-
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/kudkudak/python-for-data-processing)
 
 Notebooks for "Python for data processing" lab at JU, 2016. 
