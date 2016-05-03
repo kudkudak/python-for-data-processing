@@ -9,8 +9,9 @@ Notebooks for "Python for data processing" lab at JU, 2016.
 * L1, L2, L3 and L7 introduce basic python programming concepts and packages using Tic-Tac-Toe and spell checker as examples
 * L4, L5 and L6 introduce basic data (csv, txt) processing manually and using regexes
 * L8, L9 introduce basic concepts how to process and plot data using pandas/matplotlib/seaborn
-* L10 is about basic regression using pandas + sklearn
-* L11 is about fast web scraping using BeautifulSoup and pandas
+* L10 shows how to do basic data exploration
+* L11 introduce clustering and regression 
+* L12 is about fast web scraping using BeautifulSoup and pandas
 
 ## Used datasets
 
