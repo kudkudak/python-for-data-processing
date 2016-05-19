@@ -1,6 +1,7 @@
 numpy
 bs4
 pandas
+ipython-beautifulsoup[bs4]
 matplotlib
 scikit-learn
 seaborn
