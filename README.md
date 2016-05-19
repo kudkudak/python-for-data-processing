@@ -10,8 +10,7 @@ Notebooks for "Python for data processing" lab at JU, 2016.
 * L4, L5 and L6 introduce basic data (csv, txt) processing manually and using regexes
 * L8, L9 introduce basic concepts how to process and plot data using pandas/matplotlib/seaborn
 * L10 shows how to do basic data exploration
-* L11 introduce clustering and regression 
-* L12 is about fast web scraping using BeautifulSoup and pandas
+* L11 introduces BeautifulSoup and basic ML concepts
 
 ## Used datasets
 
