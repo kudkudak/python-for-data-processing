@@ -11,6 +11,7 @@ Notebooks for "Python for data processing" lab at JU, 2016.
 * L8, L9 introduce basic concepts how to process and plot data using pandas/matplotlib/seaborn
 * L10 shows how to do basic data exploration
 * L11 introduces BeautifulSoup and basic ML concepts
+* L12 talks about pitfalls of hypothesis testing
 
 ## Used datasets
 
